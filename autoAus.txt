@@ -1,0 +1,6 @@
+Audi;2000.0;false;0
+BMW;3000.0;true;500
+Mercedes;1500.0;false;0
+Rolls Royce;20000.0;false;0
+Bentley;12500.0;false;0
+BMW;2000.0;false;0

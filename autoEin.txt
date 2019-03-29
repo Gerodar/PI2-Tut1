@@ -1,0 +1,12 @@
+Audi;2000;False;0
+BMW;3000;True;500
+Mercedes;1500;False;0
+Rolls Royce;20000;False;0
+Bentley;12500;False;0
+VW;500;False;0
+Smart;1200;True;0
+Opel;1500;False;300
+Tesla;30000;True;Zweitausend
+Range Rover;Fünfzehntausend;False;0
+VW;Fünftausend;True;0
+Audi;200;False;200
